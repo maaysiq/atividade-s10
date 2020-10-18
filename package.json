@@ -1,0 +1,24 @@
+{
+  "name": "atividade-s10",
+  "version": "1.0.0",
+  "description": "A atividade da Semana é fazer a implementação de um sistema de uma livraria no centro de Recife, no qual o sistema possa fazer a inclusão de seu estoque contendo as seguintes informações:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maaysiq/atividade-s10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maaysiq/atividade-s10/issues"
+  },
+  "homepage": "https://github.com/maaysiq/atividade-s10#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.5"
+  }
+}

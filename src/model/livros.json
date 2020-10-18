@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "titulo": "Orgulho e Preconceito",
+        "autoria": "Jane Austen",
+        "editora": "José Olympio",
+        "categoria": "romance"
+
+    },
+    {
+        "id": 2,
+        "titulo": "O Pequeno Príncipe",
+        "autoria": "Antoine de Saint-Exupéry", 
+        "editora": "Agir",
+        "categoria": "Literatura Infanto-Juvenil"
+
+    },
+    {
+        "id": 3,
+        "titulo": "A Metamorfose",
+        "autoria": "Franz Kafka",
+        "editora": "Companhia das Letras",
+        "categoria": "romance"
+    },
+    {
+        "id": 4,
+        "titulo": "O Conde de Monte Cristo",
+        "autoria": "Alexandre Dumas",
+        "editora": "Journal des débats",
+        "categoria": "romance"
+    },
+    {
+        "id": 5,
+        "titulo": "A Peste",
+        "autoria": "Albert Camus",
+        "editora": "Record",
+        "categoria": "romance"
+    }	
+]
